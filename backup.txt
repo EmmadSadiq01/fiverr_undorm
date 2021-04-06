@@ -1,0 +1,109 @@
+ <section class="different_section">
+      <div class="solution_heading">
+        <h1 class="stroke">DIFFERENT</h1>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-12">
+          <div class="bg-img">
+            <img src="images/different_image.png" alt="" />
+          </div>
+        </div>
+        <div class="col-md-6 col-12">
+          <div class="solution_title">
+            <h3>What makes Undorm Different from Everyone Else?</h3>
+          </div>
+          <div class="solution_desc">
+            <div class="horizontal_line"></div>
+            <div class="desc">
+              <p>
+                As a NYC renter your hands were tied, especially as a student.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+  <!-- <section class="solution_section">
+      <div class="solution_heading">
+        <h1 class="stroke">SOLUTION</h1>
+      </div>
+      <div class="solution_box">
+        <div class="sol_card sol_text">
+          <div class="solution_title">
+            <h3>Rental Solutions that Put Students First</h3>
+          </div>
+          <div class="solution_desc">
+            <div class="horizontal_line"></div>
+            <div class="desc">
+              <p>
+                No BS.<br />
+                All the best apartments.<br />
+                Only on your terms.
+              </p>
+            </div>
+            <div class="vertical_line"></div>
+          </div>
+        </div>
+        <div class="sol_card puzzle_img">
+          <div class="bg-img">
+            <img src="images/puzzle_image.png" alt="" class="img-fluid"/>
+          </div>
+        </div>
+      </div>
+    </section> -->
+
+
+     <section class="solution_section">
+      <div class="solution_heading">
+        <h1 class="stroke">SOLUTION</h1>
+      </div>
+      <!-- <div class="solution_box">
+        <div class="sol_card sol_text">
+          <div class="solution_title">
+            <h3>Rental Solutions that Put Students First</h3>
+          </div>
+          <div class="solution_desc">
+            <div class="horizontal_line"></div>
+            <div class="desc">
+              <p>
+                No BS.<br />
+                All the best apartments.<br />
+                Only on your terms.
+              </p>
+            </div>
+            <div class="vertical_line"></div>
+          </div>
+        </div>
+        <div class="sol_card puzzle_img">
+          <div class="bg-img">
+            <img src="images/puzzle_image.png" alt="" class="img-fluid"/>
+          </div>
+        </div>
+      </div> -->
+      <div class="different_everyone">
+        <div class="different_heading">
+          <div class="solution_title">
+            <h3>What makes Undorm Different from Everyone Else?</h3>
+            <div class="solution_desc">
+              <div class="horizontal_line"></div>
+              <div class="desc">
+                <p>
+                  No BS.<br />
+                  All the best apartments.<br />
+                  Only on your terms.
+                </p>
+              </div>
+              <div class="vertical_line"></div>
+            </div>
+          </div>
+          <div class="bg-img">
+            <img src="images/puzzle_image.png" alt=""/>
+          </div>
+          
+        </div>
+      </div>
+    
+    </section>
+   
